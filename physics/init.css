@@ -43,7 +43,8 @@ a.nav:hover, a.nav:active {
   position:absolute;
   left:0px;
   top:0px;
-  background:url('physics.jpg');
+  background-image:url('physics.jpg');
+  background-color:white;
   width:100%;
 }
 
